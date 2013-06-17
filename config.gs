@@ -1,0 +1,11 @@
+CONFIG = {
+  USE_EXCEL_TIME: ,
+  FROM_NUMBER: "",
+  TWILIO_AUTHTOKEN: "",
+  TWILIO_ACCOUNT_SID: "",
+  APP_URL: "",
+  SPREADSHEET_ID: "",
+  CHARTS_URL: "",
+  TWILIO_URL: ""
+}
+  
