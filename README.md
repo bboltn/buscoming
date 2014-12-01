@@ -10,4 +10,4 @@ or setup a reminder.
 
 See screenshots and get more info here:
 
-http://www.fountaincitycode.com/2013/06/national-day-of-civic-hacking-in.html
+http://www.brianbolton.me/2013/06/05/National-Day-of-Civic-Hacking-in-Columbus-Georgia.html
